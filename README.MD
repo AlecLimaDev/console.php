@@ -32,7 +32,9 @@ No segundo código, abordei o conceito de Programação Orientada a Objetos com 
 
 Para visualizar o projeto:
 
-Escolha uma interface de linha de comando de sua preferência e visualize o resultado diretamente por ela.
+Clone o projeto utilizando o comando ```git clone https://github.com/AlecLimaDev/console.php.git```
+
+Em seguida, acesse e visualize o projeto clonado através da sua Interface de Linha de Comando (CLI).
 
 # `VÍDEO`
 

@@ -32,3 +32,5 @@ $desenho->desenharLinha([1, 2, 3]);
 $desenho->desenharLinha([2]);
 $desenho->desenharLinha([2]);
 $desenho->desenharLinha([2]);
+?>
+

@@ -32,7 +32,7 @@ Para visualizar o projeto:
 
 Escolha uma interface de linha de comando de sua preferência e visualize o resultado diretamente por ela.
 
-Saída no console: ![VIDEO](assets/console.mp4)
+Saída no console: ![VIDEO](assets/console.gif)
 
 
 ### EXPLICAÇÃO

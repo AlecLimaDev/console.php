@@ -26,20 +26,14 @@
 
 # SEGUNDO CÓDIGO:
 
+No segundo código, abordei o conceito de Programação Orientada a Objetos com PHP e utilizei índices para adicionar asteriscos e formar os desenhos de "X" e "CRUZ".
+
 ## COMO VISUALIZAR O PROJETO:
 
-Para visualizar o projeto: 
+Para visualizar o projeto:
 
 Escolha uma interface de linha de comando de sua preferência e visualize o resultado diretamente por ela.
 
 # `VÍDEO`
 
-![VIDEO](assets/console.gif)
-
-
-### EXPLICAÇÃO
-
-No segundo código, abordei o conceito de Programação Orientada a Objetos com PHP e utilizei índices para adicionar asteriscos e formar os desenhos de "X" e "CRUZ".
-
-
-
+![VIDEO](./assets/console.gif)
